@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: bb8ab9da2087e3e4885f2b7660b5ed7d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: splash screen gremlins brew sprite-03_0
+    21300002: splash screen gremlins brew sprite-03_1
+    21300004: splash screen gremlins brew sprite-03_2
+    21300006: splash screen gremlins brew sprite-03_3
+    21300008: splash screen gremlins brew sprite-03_4
+    21300010: splash screen gremlins brew sprite-03_5
+    21300012: splash screen gremlins brew sprite-03_6
+    21300014: splash screen gremlins brew sprite-03_7
+    21300016: splash screen gremlins brew sprite-03_8
+    21300018: splash screen gremlins brew sprite-03_9
+    21300020: splash screen gremlins brew sprite-03_10
+    21300022: splash screen gremlins brew sprite-03_11
+    21300024: splash screen gremlins brew sprite-03_12
+    21300026: splash screen gremlins brew sprite-03_13
+    21300028: splash screen gremlins brew sprite-03_14
+    21300030: splash screen gremlins brew sprite-03_15
+    21300032: splash screen gremlins brew sprite-03_16
+    21300034: splash screen gremlins brew sprite-03_17
+    21300036: splash screen gremlins brew sprite-03_18
+    21300038: splash screen gremlins brew sprite-03_19
+    21300040: splash screen gremlins brew sprite-03_20
+    21300042: splash screen gremlins brew sprite-03_21
+    21300044: splash screen gremlins brew sprite-03_22
+    21300046: splash screen gremlins brew sprite-03_23
+    21300048: splash screen gremlins brew sprite-03_24
+    21300050: splash screen gremlins brew sprite-03_25
+    21300052: splash screen gremlins brew sprite-03_26
+    21300054: splash screen gremlins brew sprite-03_27
+    21300056: splash screen gremlins brew sprite-03_28
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_0
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6288
+        width: 1670
+        height: 4109
+      alignment: 9
+      pivot: {x: 0.50946105, y: 0.9960386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233352a39ce6d424a810532e84efb69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_1
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 6309
+        width: 1655
+        height: 4078
+      alignment: 9
+      pivot: {x: 0.5095467, y: 0.9998094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c52fb0e32c8d54fb19c64c51f46e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_2
+      rect:
+        serializedVersion: 2
+        x: 5473
+        y: 6340
+        width: 1634
+        height: 4052
+      alignment: 9
+      pivot: {x: 0.5096691, y: 0.99911696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cba71be80a3d141a2fe0ec7aecc229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4947
+        width: 645
+        height: 875
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a61d73ec261a247b791b689f394db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 4942
+        width: 666
+        height: 869
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ca1389921efd1498c089a688cf314a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_5
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 4947
+        width: 592
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81713267afaa82c48b69456d3108d4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_6
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 4953
+        width: 686
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5eb9bd9ad73e54d88f4a09a6ee6db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_7
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 4947
+        width: 586
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834c63bbb154f545aea6cf4a026d9b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_8
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 4947
+        width: 655
+        height: 869
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848cc665b50f4843bfb2c32f5e8befc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_9
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 4947
+        width: 414
+        height: 807
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419ef61cf16a274fb0d309b5f0c99dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_10
+      rect:
+        serializedVersion: 2
+        x: 5981
+        y: 4932
+        width: 686
+        height: 884
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15187561cd9d09b43a96cd647920f42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_11
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3230
+        width: 901
+        height: 1320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e1df6a8d98cb44acfbfb9e350a0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_12
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 3235
+        width: 964
+        height: 1283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e43be71298074bb13ca2fa4cdf834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_13
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 3235
+        width: 864
+        height: 1283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cafa451b578b4146b9b776473c73248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_14
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 3230
+        width: 1209
+        height: 1346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bb2f3c59031442a5d3e378b9f39fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1895
+        width: 335
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a845b0427670d43aeeba8facf6599b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_16
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1937
+        width: 502
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e822ce8dd3b334887990e0ce716bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_17
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1733
+        width: 691
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536980f4a31458b48b7153b7e02a1754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_18
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1932
+        width: 613
+        height: 623
+      alignment: 9
+      pivot: {x: 0.5066599, y: 0.0019527331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa46fd74c603c4d8d2ab53304a2089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_19
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1974
+        width: 361
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c90419e14cce24b958c3563c16b263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_20
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1916
+        width: 236
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804ca631dfb4a94e9931026a011b209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_21
+      rect:
+        serializedVersion: 2
+        x: 5787
+        y: 1644
+        width: 796
+        height: 927
+      alignment: 9
+      pivot: {x: 0.5042087, y: 0.004861875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf755e288bfae047a6eb801e7ade4a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_22
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 524
+        width: 576
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7946e39c092ad4f9913387c96e6026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_23
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 366
+        width: 618
+        height: 969
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3674fbc1af2b4dc4d9b7a6bf67b248f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_24
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 633
+        width: 293
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b5eb3a91de1c4e806e9a647767605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_25
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 560
+        width: 283
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430f2635f6ca75418b1d72be714de99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_26
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 424
+        width: 592
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ca5d7082142446953b4abdf5d9444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_27
+      rect:
+        serializedVersion: 2
+        x: 5871
+        y: 319
+        width: 560
+        height: 1053
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1248390f82674d9f7a16e6773dac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splash screen gremlins brew sprite-03_28
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 6279
+        width: 1597
+        height: 4113
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.99171454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54cfc13cd36484f84e28b61ae412da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 521662155e639e24e85e9abff5dc622f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

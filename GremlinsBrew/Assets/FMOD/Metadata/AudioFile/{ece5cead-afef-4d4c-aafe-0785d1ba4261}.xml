@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ece5cead-afef-4d4c-aafe-0785d1ba4261}">
+        <property name="assetPath">
+            <value>Matt/Hug split/Hug2 [original] - Trimmed (13).wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.68165532879818591</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3fa90b90-a721-4d33-9fad-7f215ad88001}</destination>
+        </relationship>
+    </object>
+</objects>

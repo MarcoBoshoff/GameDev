@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 9ea86ee7c79b3ea409354e4a051dbe25
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brick576
+    100002: Brick576 1
+    100004: Brick577
+    100006: Brick577 1
+    100008: Brick578
+    100010: Brick578 1
+    100012: Brick579
+    100014: Brick579 1
+    100016: Brick580
+    100018: Brick580 1
+    100020: Brick581
+    100022: Brick581 1
+    100024: Brick582
+    100026: Brick582 1
+    100028: Brick583
+    100030: Brick583 1
+    100032: Brick584
+    100034: Brick584 1
+    100036: Brick585
+    100038: Brick585 1
+    100040: Brick586
+    100042: Brick586 1
+    100044: Brick587
+    100046: Brick587 1
+    100048: Brick588
+    100050: Brick588 1
+    100052: Brick589
+    100054: Brick589 1
+    100056: Brick590
+    100058: Brick590 1
+    100060: Brick591
+    100062: Brick591 1
+    100064: Brick592
+    100066: Brick593
+    100068: Brick594
+    100070: Brick595
+    100072: Brick596
+    100074: Brick597
+    100076: Brick598
+    100078: Brick599
+    100080: Brick600
+    100082: Brick601
+    100084: Brick602
+    100086: Brick603
+    100088: Brick604
+    100090: Brick605
+    100092: Brick606
+    100094: Brick607
+    100096: Brick608
+    100098: Brick609
+    100100: Brick610
+    100102: Brick611
+    100104: Brick612
+    100106: Brick613
+    100108: Brick614
+    100110: Brick615
+    100112: Brick616
+    100114: Brick617
+    100116: Brick618
+    100118: Brick619
+    100120: Brick620
+    100122: Brick621
+    100124: Brick622
+    100126: Brick623
+    100128: Brick624
+    100130: Brick625
+    100132: Brick626
+    100134: Brick627
+    100136: Brick628
+    100138: Brick629
+    100140: Brick630
+    100142: Brick631
+    100144: Brick632
+    100146: Brick633
+    100148: Brick634
+    100150: Brick635
+    100152: Brick636
+    100154: Brick637
+    100156: Brick638
+    100158: Brick639
+    100160: Brick640
+    100162: Brick641
+    100164: Brick642
+    100166: Brick643
+    100168: Brick644
+    100170: Brick645
+    100172: Brick646
+    100174: Brick647
+    100176: Brick648
+    100178: Brick649
+    100180: Brick650
+    100182: Brick651
+    100184: Brick652
+    100186: Brick653
+    100188: Brick654
+    100190: Brick655
+    100192: Brick656
+    100194: Brick_Patch_01
+    100196: Brick_Patch_02
+    100198: Brick_Patch_03
+    100200: Brick_Patch_04
+    100202: Brick_Patch_05
+    100204: Patches
+    100206: //RootNode
+    100208: transform1
+    100210: transform10
+    100212: transform2
+    100214: transform3
+    100216: transform4
+    100218: transform5
+    100220: transform6
+    100222: transform7
+    100224: transform8
+    100226: transform9
+    100228: Wood_Patch_01
+    100230: Wood_Patch_02
+    100232: Wood_Patch_03
+    100234: Wood_Patch_04
+    100236: Wood_Patch_05
+    100238: Wooden657
+    100240: Wooden658
+    100242: Wooden659
+    100244: Wooden660
+    100246: Wooden661
+    100248: Wooden662
+    100250: Wooden663
+    100252: Wooden664
+    100254: Wooden665
+    100256: Wooden666
+    100258: Wooden667
+    100260: Wooden668
+    100262: Wooden669
+    100264: Wooden670
+    100266: Wooden671
+    100268: Wooden672
+    100270: Wooden673
+    100272: Wooden674
+    100274: Wooden675
+    100276: Wooden676
+    100278: Wooden677
+    100280: Wooden678
+    100282: Wooden679
+    100284: Wooden680
+    400000: Brick576
+    400002: Brick576 1
+    400004: Brick577
+    400006: Brick577 1
+    400008: Brick578
+    400010: Brick578 1
+    400012: Brick579
+    400014: Brick579 1
+    400016: Brick580
+    400018: Brick580 1
+    400020: Brick581
+    400022: Brick581 1
+    400024: Brick582
+    400026: Brick582 1
+    400028: Brick583
+    400030: Brick583 1
+    400032: Brick584
+    400034: Brick584 1
+    400036: Brick585
+    400038: Brick585 1
+    400040: Brick586
+    400042: Brick586 1
+    400044: Brick587
+    400046: Brick587 1
+    400048: Brick588
+    400050: Brick588 1
+    400052: Brick589
+    400054: Brick589 1
+    400056: Brick590
+    400058: Brick590 1
+    400060: Brick591
+    400062: Brick591 1
+    400064: Brick592
+    400066: Brick593
+    400068: Brick594
+    400070: Brick595
+    400072: Brick596
+    400074: Brick597
+    400076: Brick598
+    400078: Brick599
+    400080: Brick600
+    400082: Brick601
+    400084: Brick602
+    400086: Brick603
+    400088: Brick604
+    400090: Brick605
+    400092: Brick606
+    400094: Brick607
+    400096: Brick608
+    400098: Brick609
+    400100: Brick610
+    400102: Brick611
+    400104: Brick612
+    400106: Brick613
+    400108: Brick614
+    400110: Brick615
+    400112: Brick616
+    400114: Brick617
+    400116: Brick618
+    400118: Brick619
+    400120: Brick620
+    400122: Brick621
+    400124: Brick622
+    400126: Brick623
+    400128: Brick624
+    400130: Brick625
+    400132: Brick626
+    400134: Brick627
+    400136: Brick628
+    400138: Brick629
+    400140: Brick630
+    400142: Brick631
+    400144: Brick632
+    400146: Brick633
+    400148: Brick634
+    400150: Brick635
+    400152: Brick636
+    400154: Brick637
+    400156: Brick638
+    400158: Brick639
+    400160: Brick640
+    400162: Brick641
+    400164: Brick642
+    400166: Brick643
+    400168: Brick644
+    400170: Brick645
+    400172: Brick646
+    400174: Brick647
+    400176: Brick648
+    400178: Brick649
+    400180: Brick650
+    400182: Brick651
+    400184: Brick652
+    400186: Brick653
+    400188: Brick654
+    400190: Brick655
+    400192: Brick656
+    400194: Brick_Patch_01
+    400196: Brick_Patch_02
+    400198: Brick_Patch_03
+    400200: Brick_Patch_04
+    400202: Brick_Patch_05
+    400204: Patches
+    400206: //RootNode
+    400208: transform1
+    400210: transform10
+    400212: transform2
+    400214: transform3
+    400216: transform4
+    400218: transform5
+    400220: transform6
+    400222: transform7
+    400224: transform8
+    400226: transform9
+    400228: Wood_Patch_01
+    400230: Wood_Patch_02
+    400232: Wood_Patch_03
+    400234: Wood_Patch_04
+    400236: Wood_Patch_05
+    400238: Wooden657
+    400240: Wooden658
+    400242: Wooden659
+    400244: Wooden660
+    400246: Wooden661
+    400248: Wooden662
+    400250: Wooden663
+    400252: Wooden664
+    400254: Wooden665
+    400256: Wooden666
+    400258: Wooden667
+    400260: Wooden668
+    400262: Wooden669
+    400264: Wooden670
+    400266: Wooden671
+    400268: Wooden672
+    400270: Wooden673
+    400272: Wooden674
+    400274: Wooden675
+    400276: Wooden676
+    400278: Wooden677
+    400280: Wooden678
+    400282: Wooden679
+    400284: Wooden680
+    2100000: super
+    2100002: WoodPatch_New
+    2100004: Default_Material
+    2300000: Brick576
+    2300002: Brick576 1
+    2300004: Brick577
+    2300006: Brick577 1
+    2300008: Brick578
+    2300010: Brick578 1
+    2300012: Brick579
+    2300014: Brick579 1
+    2300016: Brick580
+    2300018: Brick580 1
+    2300020: Brick581
+    2300022: Brick581 1
+    2300024: Brick582
+    2300026: Brick582 1
+    2300028: Brick583
+    2300030: Brick583 1
+    2300032: Brick584
+    2300034: Brick584 1
+    2300036: Brick585
+    2300038: Brick585 1
+    2300040: Brick586
+    2300042: Brick586 1
+    2300044: Brick587
+    2300046: Brick587 1
+    2300048: Brick588
+    2300050: Brick588 1
+    2300052: Brick589
+    2300054: Brick589 1
+    2300056: Brick590
+    2300058: Brick590 1
+    2300060: Brick591
+    2300062: Brick591 1
+    2300064: Brick592
+    2300066: Brick593
+    2300068: Brick594
+    2300070: Brick595
+    2300072: Brick596
+    2300074: Brick597
+    2300076: Brick598
+    2300078: Brick599
+    2300080: Brick600
+    2300082: Brick601
+    2300084: Brick602
+    2300086: Brick603
+    2300088: Brick604
+    2300090: Brick605
+    2300092: Brick606
+    2300094: Brick607
+    2300096: Brick608
+    2300098: Brick609
+    2300100: Brick610
+    2300102: Brick611
+    2300104: Brick612
+    2300106: Brick613
+    2300108: Brick614
+    2300110: Brick615
+    2300112: Brick616
+    2300114: Brick617
+    2300116: Brick618
+    2300118: Brick619
+    2300120: Brick620
+    2300122: Brick621
+    2300124: Brick622
+    2300126: Brick623
+    2300128: Brick624
+    2300130: Brick625
+    2300132: Brick626
+    2300134: Brick627
+    2300136: Brick628
+    2300138: Brick629
+    2300140: Brick630
+    2300142: Brick631
+    2300144: Brick632
+    2300146: Brick633
+    2300148: Brick634
+    2300150: Brick635
+    2300152: Brick636
+    2300154: Brick637
+    2300156: Brick638
+    2300158: Brick639
+    2300160: Brick640
+    2300162: Brick641
+    2300164: Brick642
+    2300166: Brick643
+    2300168: Brick644
+    2300170: Brick645
+    2300172: Brick646
+    2300174: Brick647
+    2300176: Brick648
+    2300178: Brick649
+    2300180: Brick650
+    2300182: Brick651
+    2300184: Brick652
+    2300186: Brick653
+    2300188: Brick654
+    2300190: Brick655
+    2300192: Brick656
+    2300194: Wooden657
+    2300196: Wooden658
+    2300198: Wooden659
+    2300200: Wooden660
+    2300202: Wooden661
+    2300204: Wooden662
+    2300206: Wooden663
+    2300208: Wooden664
+    2300210: Wooden665
+    2300212: Wooden666
+    2300214: Wooden667
+    2300216: Wooden668
+    2300218: Wooden669
+    2300220: Wooden670
+    2300222: Wooden671
+    2300224: Wooden672
+    2300226: Wooden673
+    2300228: Wooden674
+    2300230: Wooden675
+    2300232: Wooden676
+    2300234: Wooden677
+    2300236: Wooden678
+    2300238: Wooden679
+    2300240: Wooden680
+    3300000: Brick576
+    3300002: Brick576 1
+    3300004: Brick577
+    3300006: Brick577 1
+    3300008: Brick578
+    3300010: Brick578 1
+    3300012: Brick579
+    3300014: Brick579 1
+    3300016: Brick580
+    3300018: Brick580 1
+    3300020: Brick581
+    3300022: Brick581 1
+    3300024: Brick582
+    3300026: Brick582 1
+    3300028: Brick583
+    3300030: Brick583 1
+    3300032: Brick584
+    3300034: Brick584 1
+    3300036: Brick585
+    3300038: Brick585 1
+    3300040: Brick586
+    3300042: Brick586 1
+    3300044: Brick587
+    3300046: Brick587 1
+    3300048: Brick588
+    3300050: Brick588 1
+    3300052: Brick589
+    3300054: Brick589 1
+    3300056: Brick590
+    3300058: Brick590 1
+    3300060: Brick591
+    3300062: Brick591 1
+    3300064: Brick592
+    3300066: Brick593
+    3300068: Brick594
+    3300070: Brick595
+    3300072: Brick596
+    3300074: Brick597
+    3300076: Brick598
+    3300078: Brick599
+    3300080: Brick600
+    3300082: Brick601
+    3300084: Brick602
+    3300086: Brick603
+    3300088: Brick604
+    3300090: Brick605
+    3300092: Brick606
+    3300094: Brick607
+    3300096: Brick608
+    3300098: Brick609
+    3300100: Brick610
+    3300102: Brick611
+    3300104: Brick612
+    3300106: Brick613
+    3300108: Brick614
+    3300110: Brick615
+    3300112: Brick616
+    3300114: Brick617
+    3300116: Brick618
+    3300118: Brick619
+    3300120: Brick620
+    3300122: Brick621
+    3300124: Brick622
+    3300126: Brick623
+    3300128: Brick624
+    3300130: Brick625
+    3300132: Brick626
+    3300134: Brick627
+    3300136: Brick628
+    3300138: Brick629
+    3300140: Brick630
+    3300142: Brick631
+    3300144: Brick632
+    3300146: Brick633
+    3300148: Brick634
+    3300150: Brick635
+    3300152: Brick636
+    3300154: Brick637
+    3300156: Brick638
+    3300158: Brick639
+    3300160: Brick640
+    3300162: Brick641
+    3300164: Brick642
+    3300166: Brick643
+    3300168: Brick644
+    3300170: Brick645
+    3300172: Brick646
+    3300174: Brick647
+    3300176: Brick648
+    3300178: Brick649
+    3300180: Brick650
+    3300182: Brick651
+    3300184: Brick652
+    3300186: Brick653
+    3300188: Brick654
+    3300190: Brick655
+    3300192: Brick656
+    3300194: Wooden657
+    3300196: Wooden658
+    3300198: Wooden659
+    3300200: Wooden660
+    3300202: Wooden661
+    3300204: Wooden662
+    3300206: Wooden663
+    3300208: Wooden664
+    3300210: Wooden665
+    3300212: Wooden666
+    3300214: Wooden667
+    3300216: Wooden668
+    3300218: Wooden669
+    3300220: Wooden670
+    3300222: Wooden671
+    3300224: Wooden672
+    3300226: Wooden673
+    3300228: Wooden674
+    3300230: Wooden675
+    3300232: Wooden676
+    3300234: Wooden677
+    3300236: Wooden678
+    3300238: Wooden679
+    3300240: Wooden680
+    4300000: Brick576
+    4300002: Brick577
+    4300004: Brick578
+    4300006: Brick579
+    4300008: Brick580
+    4300010: Brick581
+    4300012: Brick582
+    4300014: Brick583
+    4300016: Brick584
+    4300018: Brick585
+    4300020: Brick586
+    4300022: Brick587
+    4300024: Brick588
+    4300026: Brick589
+    4300028: Brick590
+    4300030: Brick591
+    4300032: Brick576
+    4300034: Brick577
+    4300036: Brick578
+    4300038: Brick579
+    4300040: Brick580
+    4300042: Brick581
+    4300044: Brick582
+    4300046: Brick583
+    4300048: Brick584
+    4300050: Brick585
+    4300052: Brick586
+    4300054: Brick587
+    4300056: Brick588
+    4300058: Brick589
+    4300060: Brick590
+    4300062: Brick591
+    4300064: Brick592
+    4300066: Brick593
+    4300068: Brick594
+    4300070: Brick595
+    4300072: Brick596
+    4300074: Brick597
+    4300076: Brick598
+    4300078: Brick599
+    4300080: Brick600
+    4300082: Brick601
+    4300084: Brick602
+    4300086: Brick603
+    4300088: Brick604
+    4300090: Brick605
+    4300092: Brick606
+    4300094: Brick607
+    4300096: Brick608
+    4300098: Brick609
+    4300100: Brick610
+    4300102: Brick611
+    4300104: Brick612
+    4300106: Brick613
+    4300108: Brick614
+    4300110: Brick615
+    4300112: Brick616
+    4300114: Brick617
+    4300116: Brick618
+    4300118: Brick619
+    4300120: Brick620
+    4300122: Brick621
+    4300124: Brick622
+    4300126: Brick623
+    4300128: Brick624
+    4300130: Brick625
+    4300132: Brick626
+    4300134: Brick627
+    4300136: Brick628
+    4300138: Brick629
+    4300140: Brick630
+    4300142: Brick631
+    4300144: Brick632
+    4300146: Brick633
+    4300148: Brick634
+    4300150: Brick635
+    4300152: Brick636
+    4300154: Brick637
+    4300156: Brick638
+    4300158: Brick639
+    4300160: Brick640
+    4300162: Brick641
+    4300164: Brick642
+    4300166: Brick643
+    4300168: Brick644
+    4300170: Brick645
+    4300172: Brick646
+    4300174: Brick647
+    4300176: Brick648
+    4300178: Brick649
+    4300180: Brick650
+    4300182: Brick651
+    4300184: Brick652
+    4300186: Brick653
+    4300188: Brick654
+    4300190: Brick655
+    4300192: Brick656
+    4300194: Wooden657
+    4300196: Wooden658
+    4300198: Wooden659
+    4300200: Wooden660
+    4300202: Wooden661
+    4300204: Wooden662
+    4300206: Wooden663
+    4300208: Wooden664
+    4300210: Wooden665
+    4300212: Wooden666
+    4300214: Wooden667
+    4300216: Wooden668
+    4300218: Wooden669
+    4300220: Wooden670
+    4300222: Wooden671
+    4300224: Wooden672
+    4300226: Wooden673
+    4300228: Wooden674
+    4300230: Wooden675
+    4300232: Wooden676
+    4300234: Wooden677
+    4300236: Wooden678
+    4300238: Wooden679
+    4300240: Wooden680
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

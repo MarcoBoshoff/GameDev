@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{8c05a054-f415-4088-9740-db92c087ba3f}">
+        <property name="assetPath">
+            <value>sfx/Stings/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3fa90b90-a721-4d33-9fad-7f215ad88001}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{9a4dcf8e-f4e3-4624-9fc7-fe6cd052a0fa}">
+        <property name="assetPath">
+            <value>467951__benzix2__ui-button-click_REVERSED.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.22780045351473924</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3fa90b90-a721-4d33-9fad-7f215ad88001}</destination>
+        </relationship>
+    </object>
+</objects>

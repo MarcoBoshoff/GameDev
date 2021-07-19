@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 53baa1d2b35850945a261231359b8b46
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pause UI-03_0
+    21300002: Pause UI-03_1
+    21300004: Pause UI-03_2
+    21300006: Pause UI-03_3
+    21300008: Pause UI-03_4
+    21300010: Pause UI-03_5
+    21300012: Pause UI-03_7
+    21300014: Pause UI-03_8
+    21300016: Pause UI-03_9
+    21300018: Pause UI-03_10
+    21300020: Pause UI-03_12
+    21300022: Pause UI-03_13
+    21300024: Pause UI-03_14
+    21300026: Pause UI-03_15
+    21300028: Pause UI-03_16
+    21300030: Pause UI-03_17
+    21300032: Pause UI-03_18
+    21300034: Pause UI-03_19
+    21300036: Pause UI-03_20
+    21300038: Pause UI-03_21
+    21300040: Pause UI-03_22
+    21300042: Pause UI-03_23
+    21300044: Pause UI-03_24
+    21300046: Pause UI-03_25
+    21300048: Pause UI-03_26
+    21300050: Pause UI-03_27
+    21300052: Pause UI-03_28
+    21300054: Pause UI-03_29
+    21300056: Pause UI-03_30
+    21300058: Pause UI-03_31
+    21300060: Pause UI-03_32
+    21300062: Pause UI-03_33
+    21300064: Pause UI-03_35
+    21300066: Pause UI-03_36
+    21300068: Pause UI-03_37
+    21300070: Pause UI-03_38
+    21300072: Pause UI-03_39
+    21300074: Pause UI-03_40
+    21300076: Pause UI-03_41
+    21300078: Pause UI-03_43
+    21300080: Pause UI-03_44
+    21300082: Pause UI-03_45
+    21300084: Pause UI-03_46
+    21300086: Pause UI-03_47
+    21300088: Pause UI-03_48
+    21300090: Pause UI-03_49
+    21300092: Pause UI-03_50
+    21300094: Pause UI-03_51
+    21300096: Pause UI-03_52
+    21300098: Pause UI-03_53
+    21300100: Pause UI-03_54
+    21300102: Pause UI-03_55
+    21300104: Pause UI-03_56
+    21300106: Pause UI-03_57
+    21300108: Pause UI-03_58
+    21300110: Pause UI-03_59
+    21300112: Pause UI-03_60
+    21300114: Pause UI-03_61
+    21300116: Pause UI-03_62
+    21300118: Pause UI-03_63
+    21300120: Pause UI-03_64
+    21300122: Pause UI-03_65
+    21300124: Pause UI-03_66
+    21300126: Pause UI-03_67
+    21300128: Pause UI-03_68
+    21300130: Pause UI-03_69
+    21300132: Pause UI-03_70
+    21300134: Pause UI-03_71
+    21300136: Pause UI-03_72
+    21300138: Pause UI-03_73
+    21300140: Pause UI-03_74
+    21300142: Pause UI-03_75
+    21300144: Pause UI-03_76
+    21300146: Pause UI-03_77
+    21300148: Pause UI-03_78
+    21300150: Pause UI-03_79
+    21300152: Pause UI-03_80
+    21300154: Pause UI-03_81
+    21300156: Pause UI-03_82
+    21300158: Pause UI-03_83
+    21300160: Pause UI-03_84
+    21300162: Pause UI-03_85
+    21300164: Pause UI-03_86
+    21300166: Pause UI-03_87
+    21300168: Pause UI-03_88
+    21300170: Pause UI-03_89
+    21300172: Pause UI-03_90
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pause UI-03_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2022
+        width: 1009
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b0dbb130d3cdc43b6be02ef999ed41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_7
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 1795
+        width: 1534
+        height: 1132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1513f0da110bba243947ed3c172c88a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_8
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 1760
+        width: 1509
+        height: 1116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a590af01a2de05459afe31fb2df1b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2067
+        width: 1445
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f4b6cbd7729c641aa441b56e38bffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1509
+        width: 1257
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60292ef1ba350d4bb255e86be83adc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_15
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1515
+        width: 1259
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fa76671ee53e48a1793ae083a05f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 738
+        width: 1013
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac13660ab5cd9b46a18f5243071600c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_28
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 174
+        width: 1447
+        height: 1345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204076c2634557c4bae300fb5d674e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_30
+      rect:
+        serializedVersion: 2
+        x: 4871
+        y: 171
+        width: 1459
+        height: 1371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f12832b55a9d45b0e2304ecb638f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_35
+      rect:
+        serializedVersion: 2
+        x: 6901
+        y: 1145
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19936653a24c0f4d86371bba64974f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_41
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 733
+        width: 1445
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f75ea3cdbde94287fc8193071f95c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 384
+        width: 273
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908708b8929d19408f48944aa49b06f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_52
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 653
+        width: 172
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abcf0e3af72db943a61c0367f48baad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 275
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c833dd86802543a39d6a639cd1d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_65
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 287
+        width: 369
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9274d2d07b7e49a60984d1c6a5ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_66
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 287
+        width: 361
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca497cefa37e140bf139d1a3365573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_87
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 191
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445edb872c22c54f9ae56328fc47a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_89
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 191
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac7d1516c66e14f9c37a16f637a90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_4
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 239
+        width: 1642
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681cbb2526f97947954fc7b4bf11823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause UI-03_0
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1744
+        width: 3206
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab47784e8cb0c4fb51dd9bd0311c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf8f6418d6edaf948b60c04034aae058
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

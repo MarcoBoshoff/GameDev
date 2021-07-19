@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{bf9f083f-50ec-4659-b54a-a8c8bae78958}">
+        <property name="name">
+            <value>MasterVol</value>
+        </property>
+        <relationship name="folder">
+            <destination>{eb03090b-2398-4268-beae-efedf227d369}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{26298c18-d69d-4ba6-9447-29b3eb2fa24e}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{26298c18-d69d-4ba6-9447-29b3eb2fa24e}">
+        <property name="initialValue">
+            <value>1</value>
+        </property>
+        <property name="seekSpeed">
+            <value>1.3999998569488525</value>
+        </property>
+    </object>
+</objects>

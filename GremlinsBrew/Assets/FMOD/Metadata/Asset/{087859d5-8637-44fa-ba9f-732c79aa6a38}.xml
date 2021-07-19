@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{087859d5-8637-44fa-ba9f-732c79aa6a38}">
+        <property name="assetPath">
+            <value>Matt/Clink Spllit/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3fa90b90-a721-4d33-9fad-7f215ad88001}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: e19b5f5b610893d45933b376b7bd9ff6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BaseVines_GEO
+    100002: BL_Corner_GRP
+    100004: Book_GRP
+    100006: BookBase_GEO
+    100008: BottomPage_GEO
+    100010: BR_Corner_GRP
+    100012: Candle_GRP
+    100014: Cloth_GEO
+    100016: Flowers_GRP
+    100018: L_Flower_GEO
+    100020: Legs_GEO
+    100022: MagicCandle_01
+    100024: MagicCandle_02
+    100026: MiddlePage_GEO
+    100028: polySurface519
+    100030: polySurface519 1
+    100032: polySurface520
+    100034: polySurface520 1
+    100036: polySurface521
+    100038: polySurface521 1
+    100040: polySurface530
+    100042: polySurface530 1
+    100044: polySurface530 2
+    100046: polySurface530 3
+    100048: polySurface531
+    100050: polySurface531 1
+    100052: polySurface531 2
+    100054: polySurface531 3
+    100056: polySurface571
+    100058: polySurface571 1
+    100060: polySurface571 2
+    100062: polySurface571 3
+    100064: polySurface572
+    100066: polySurface572 1
+    100068: polySurface572 2
+    100070: polySurface572 3
+    100072: polySurface573
+    100074: polySurface573 1
+    100076: polySurface573 2
+    100078: polySurface573 3
+    100080: polySurface574
+    100082: polySurface574 1
+    100084: polySurface574 2
+    100086: polySurface574 3
+    100088: polySurface575
+    100090: polySurface575 1
+    100092: polySurface575 2
+    100094: polySurface575 3
+    100096: R_Flower_GEO
+    100098: //RootNode
+    100100: SpellTable_06
+    100102: Star_01_JNT_01
+    100104: Star_01_JNT_02
+    100106: Star_01_JNT_02 1
+    100108: Star_01_JNT_02 2
+    100110: Star_01_JNT_02 3
+    100112: Star_01_JNT_02 4
+    100114: Star_01_JNT_02 5
+    100116: Star_01_JNT_03
+    100118: Star_01_JNT_03 1
+    100120: Star_01_JNT_03 2
+    100122: Star_01_JNT_03 3
+    100124: Star_01_JNT_03 4
+    100126: Star_01_JNT_03 5
+    100128: Star_01_JNT_04
+    100130: Star_01_JNT_04 1
+    100132: Star_01_JNT_04 2
+    100134: Star_01_JNT_04 3
+    100136: Star_01_JNT_04 4
+    100138: Star_01_JNT_04 5
+    100140: Star_01_JNT_05
+    100142: Star_01_JNT_05 1
+    100144: Star_01_JNT_05 2
+    100146: Star_01_JNT_05 3
+    100148: Star_01_JNT_05 4
+    100150: Star_01_JNT_05 5
+    100152: Star_01_JNT_06
+    100154: Star_01_JNT_06 1
+    100156: Star_01_JNT_06 2
+    100158: Star_01_JNT_06 3
+    100160: Star_01_JNT_06 4
+    100162: Star_01_JNT_06 5
+    100164: Star_01_JNT_07
+    100166: Star_01_JNT_07 1
+    100168: Star_01_JNT_07 2
+    100170: Star_01_JNT_07 3
+    100172: Star_01_JNT_07 4
+    100174: Star_01_JNT_07 5
+    100176: Star_01_JNT_08
+    100178: Star_01_JNT_08 1
+    100180: Star_01_JNT_08 2
+    100182: Star_01_JNT_08 3
+    100184: Star_01_JNT_08 4
+    100186: Star_01_JNT_08 5
+    100188: Star_01_JNT_09
+    100190: Star_01_JNT_09 1
+    100192: Star_01_JNT_09 2
+    100194: Star_01_JNT_09 3
+    100196: Star_01_JNT_09 4
+    100198: Star_01_JNT_09 5
+    100200: Star_01_JNT_10
+    100202: Star_01_JNT_10 1
+    100204: Star_01_JNT_10 2
+    100206: Star_01_JNT_10 3
+    100208: Star_01_JNT_10 4
+    100210: Star_01_JNT_10 5
+    100212: Star_01_JNT_11
+    100214: Star_01_JNT_12
+    100216: Star_01_JNT_13
+    100218: Star_01_JNT_15
+    100220: Table_GRP
+    100222: TL_Corner_GRP
+    100224: TopPage_GEO
+    100226: TopVines_GEO
+    100228: TR_Corner_GRP
+    100230: VineRoot_JNT
+    100232: Vines_GRP
+    400000: BaseVines_GEO
+    400002: BL_Corner_GRP
+    400004: Book_GRP
+    400006: BookBase_GEO
+    400008: BottomPage_GEO
+    400010: BR_Corner_GRP
+    400012: Candle_GRP
+    400014: Cloth_GEO
+    400016: Flowers_GRP
+    400018: L_Flower_GEO
+    400020: Legs_GEO
+    400022: MagicCandle_01
+    400024: MagicCandle_02
+    400026: MiddlePage_GEO
+    400028: polySurface519
+    400030: polySurface519 1
+    400032: polySurface520
+    400034: polySurface520 1
+    400036: polySurface521
+    400038: polySurface521 1
+    400040: polySurface530
+    400042: polySurface530 1
+    400044: polySurface530 2
+    400046: polySurface530 3
+    400048: polySurface531
+    400050: polySurface531 1
+    400052: polySurface531 2
+    400054: polySurface531 3
+    400056: polySurface571
+    400058: polySurface571 1
+    400060: polySurface571 2
+    400062: polySurface571 3
+    400064: polySurface572
+    400066: polySurface572 1
+    400068: polySurface572 2
+    400070: polySurface572 3
+    400072: polySurface573
+    400074: polySurface573 1
+    400076: polySurface573 2
+    400078: polySurface573 3
+    400080: polySurface574
+    400082: polySurface574 1
+    400084: polySurface574 2
+    400086: polySurface574 3
+    400088: polySurface575
+    400090: polySurface575 1
+    400092: polySurface575 2
+    400094: polySurface575 3
+    400096: R_Flower_GEO
+    400098: //RootNode
+    400100: SpellTable_06
+    400102: Star_01_JNT_01
+    400104: Star_01_JNT_02
+    400106: Star_01_JNT_02 1
+    400108: Star_01_JNT_02 2
+    400110: Star_01_JNT_02 3
+    400112: Star_01_JNT_02 4
+    400114: Star_01_JNT_02 5
+    400116: Star_01_JNT_03
+    400118: Star_01_JNT_03 1
+    400120: Star_01_JNT_03 2
+    400122: Star_01_JNT_03 3
+    400124: Star_01_JNT_03 4
+    400126: Star_01_JNT_03 5
+    400128: Star_01_JNT_04
+    400130: Star_01_JNT_04 1
+    400132: Star_01_JNT_04 2
+    400134: Star_01_JNT_04 3
+    400136: Star_01_JNT_04 4
+    400138: Star_01_JNT_04 5
+    400140: Star_01_JNT_05
+    400142: Star_01_JNT_05 1
+    400144: Star_01_JNT_05 2
+    400146: Star_01_JNT_05 3
+    400148: Star_01_JNT_05 4
+    400150: Star_01_JNT_05 5
+    400152: Star_01_JNT_06
+    400154: Star_01_JNT_06 1
+    400156: Star_01_JNT_06 2
+    400158: Star_01_JNT_06 3
+    400160: Star_01_JNT_06 4
+    400162: Star_01_JNT_06 5
+    400164: Star_01_JNT_07
+    400166: Star_01_JNT_07 1
+    400168: Star_01_JNT_07 2
+    400170: Star_01_JNT_07 3
+    400172: Star_01_JNT_07 4
+    400174: Star_01_JNT_07 5
+    400176: Star_01_JNT_08
+    400178: Star_01_JNT_08 1
+    400180: Star_01_JNT_08 2
+    400182: Star_01_JNT_08 3
+    400184: Star_01_JNT_08 4
+    400186: Star_01_JNT_08 5
+    400188: Star_01_JNT_09
+    400190: Star_01_JNT_09 1
+    400192: Star_01_JNT_09 2
+    400194: Star_01_JNT_09 3
+    400196: Star_01_JNT_09 4
+    400198: Star_01_JNT_09 5
+    400200: Star_01_JNT_10
+    400202: Star_01_JNT_10 1
+    400204: Star_01_JNT_10 2
+    400206: Star_01_JNT_10 3
+    400208: Star_01_JNT_10 4
+    400210: Star_01_JNT_10 5
+    400212: Star_01_JNT_11
+    400214: Star_01_JNT_12
+    400216: Star_01_JNT_13
+    400218: Star_01_JNT_15
+    400220: Table_GRP
+    400222: TL_Corner_GRP
+    400224: TopPage_GEO
+    400226: TopVines_GEO
+    400228: TR_Corner_GRP
+    400230: VineRoot_JNT
+    400232: Vines_GRP
+    2100000: portal1
+    2100002: ingredients1
+    2100004: table
+    2300000: BaseVines_GEO
+    2300002: BookBase_GEO
+    2300004: BottomPage_GEO
+    2300006: Cloth_GEO
+    2300008: L_Flower_GEO
+    2300010: Legs_GEO
+    2300012: MiddlePage_GEO
+    2300014: polySurface519
+    2300016: polySurface519 1
+    2300018: polySurface520
+    2300020: polySurface520 1
+    2300022: polySurface521
+    2300024: polySurface521 1
+    2300026: polySurface530
+    2300028: polySurface530 1
+    2300030: polySurface530 2
+    2300032: polySurface530 3
+    2300034: polySurface531
+    2300036: polySurface531 1
+    2300038: polySurface531 2
+    2300040: polySurface531 3
+    2300042: polySurface571
+    2300044: polySurface571 1
+    2300046: polySurface571 2
+    2300048: polySurface571 3
+    2300050: polySurface572
+    2300052: polySurface572 1
+    2300054: polySurface572 2
+    2300056: polySurface572 3
+    2300058: polySurface573
+    2300060: polySurface573 1
+    2300062: polySurface573 2
+    2300064: polySurface573 3
+    2300066: polySurface574
+    2300068: polySurface574 1
+    2300070: polySurface574 2
+    2300072: polySurface574 3
+    2300074: polySurface575
+    2300076: polySurface575 1
+    2300078: polySurface575 2
+    2300080: polySurface575 3
+    2300082: R_Flower_GEO
+    2300084: TopPage_GEO
+    3300000: BaseVines_GEO
+    3300002: BookBase_GEO
+    3300004: BottomPage_GEO
+    3300006: Cloth_GEO
+    3300008: L_Flower_GEO
+    3300010: Legs_GEO
+    3300012: MiddlePage_GEO
+    3300014: polySurface519
+    3300016: polySurface519 1
+    3300018: polySurface520
+    3300020: polySurface520 1
+    3300022: polySurface521
+    3300024: polySurface521 1
+    3300026: polySurface530
+    3300028: polySurface530 1
+    3300030: polySurface530 2
+    3300032: polySurface530 3
+    3300034: polySurface531
+    3300036: polySurface531 1
+    3300038: polySurface531 2
+    3300040: polySurface531 3
+    3300042: polySurface571
+    3300044: polySurface571 1
+    3300046: polySurface571 2
+    3300048: polySurface571 3
+    3300050: polySurface572
+    3300052: polySurface572 1
+    3300054: polySurface572 2
+    3300056: polySurface572 3
+    3300058: polySurface573
+    3300060: polySurface573 1
+    3300062: polySurface573 2
+    3300064: polySurface573 3
+    3300066: polySurface574
+    3300068: polySurface574 1
+    3300070: polySurface574 2
+    3300072: polySurface574 3
+    3300074: polySurface575
+    3300076: polySurface575 1
+    3300078: polySurface575 2
+    3300080: polySurface575 3
+    3300082: R_Flower_GEO
+    3300084: TopPage_GEO
+    4300000: polySurface519
+    4300002: polySurface520
+    4300004: polySurface521
+    4300006: polySurface519
+    4300008: polySurface520
+    4300010: polySurface521
+    4300012: R_Flower_GEO
+    4300014: L_Flower_GEO
+    4300016: BookBase_GEO
+    4300018: BottomPage_GEO
+    4300020: MiddlePage_GEO
+    4300022: TopPage_GEO
+    4300024: Legs_GEO
+    4300026: Cloth_GEO
+    4300028: TopVines_GEO
+    4300030: BaseVines_GEO
+    4300032: polySurface530
+    4300034: polySurface572
+    4300036: polySurface575
+    4300038: polySurface571
+    4300040: polySurface531
+    4300042: polySurface573
+    4300044: polySurface574
+    4300046: polySurface530
+    4300048: polySurface572
+    4300050: polySurface575
+    4300052: polySurface571
+    4300054: polySurface531
+    4300056: polySurface573
+    4300058: polySurface574
+    4300060: polySurface530
+    4300062: polySurface572
+    4300064: polySurface575
+    4300066: polySurface571
+    4300068: polySurface531
+    4300070: polySurface573
+    4300072: polySurface574
+    4300074: polySurface530
+    4300076: polySurface572
+    4300078: polySurface575
+    4300080: polySurface571
+    4300082: polySurface531
+    4300084: polySurface573
+    4300086: polySurface574
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TopVines_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ingredients1
+    second: {fileID: 2100000, guid: a28cf94d3f0a1dd449db92234fc68ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portal1
+    second: {fileID: 2100034, guid: f028b5bfe211d644eb2119035dc0bfd6, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table
+    second: {fileID: 2100000, guid: a382b1dfe1692f448983f78603d4b4b7, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

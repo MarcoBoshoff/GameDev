@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53fda0b2bd2500e43b5140c0888f23f4, type: 3}
+  m_Name: FMOD_Control_Data
+  m_EditorClassIdentifier: 
+  respawnSoundPath: event:/sfx/Interactors/Ingredient_Respawn
+  successEventPath: event:/sfx/Stings/sting_Success
+  failEventPath: event:/sfx/Stings/sting_Fail
+  menuMusicEventPath: event:/music/music_MenuLoop
+  bgMusicEventPath: event:/music/music_GameLoop
+  coinCollsionEventPath: event:/sfx/Environmental/Coin Impact
+  changeSelectionEventPath: event:/sfx/UI/UI_Change_Selection
+  confirmSelectionEventpath: event:/sfx/UI/UI_Confirm_Selection
+  cancelEventPath: event:/sfx/UI/UI_Cancel
+  damageEventPath: event:/sfx/Environmental/Damage
+  repairEventPath: event:/sfx/Environmental/Repair
+  coinSpawnEventPath: event:/sfx/Environmental/Coin Spawn
+  coinImpactEventPath: event:/sfx/Environmental/Coin Impact
+  footstepEventPath: event:/sfx/Player/Footsteps_1
+  throwSoundEventPath: event:/sfx/Player/Throw
+  interactorLandEventPath: event:/sfx/Interactors/Interactor_Land
+  musicReleaseLength: 0.5
+  maxPanWidth: 0.4

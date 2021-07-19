@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{6ae405e4-4361-4744-ab13-269dc66bedb4}">
+        <property name="assetPath">
+            <value>sfx/Interactors/Hug Station/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3fa90b90-a721-4d33-9fad-7f215ad88001}</destination>
+        </relationship>
+    </object>
+</objects>

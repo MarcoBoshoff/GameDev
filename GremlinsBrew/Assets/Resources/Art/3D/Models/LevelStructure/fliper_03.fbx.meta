@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: dc4c56abd539352439038353f34f111b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: Bed_blue
+    100004: Bed_red
+    100006: crystal_bed
+    100008: //RootNode
+    100010: flower_pot
+    100012: mushroom_box
+    400000: base
+    400002: Bed_blue
+    400004: Bed_red
+    400006: crystal_bed
+    400008: //RootNode
+    400010: flower_pot
+    400012: mushroom_box
+    2100000: fliper1
+    2100002: ingredients1
+    2100004: Crystal
+    2100006: Player2Bed_PL
+    2100008: Player1Bed_PL
+    2100010: stones
+    2100012: gold
+    2300000: base
+    2300002: Bed_blue
+    2300004: Bed_red
+    2300006: crystal_bed
+    2300008: flower_pot
+    2300010: mushroom_box
+    3300000: base
+    3300002: Bed_blue
+    3300004: Bed_red
+    3300006: crystal_bed
+    3300008: flower_pot
+    3300010: mushroom_box
+    4300000: flower_pot
+    4300002: crystal_bed
+    4300004: mushroom_box
+    4300006: Bed_blue
+    4300008: Bed_red
+    4300010: base
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crystal
+    second: {fileID: 2100000, guid: aff7369d92fa0b9429f0e7cdfae0ce8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Player1Bed_PL
+    second: {fileID: 2100000, guid: fedee2bd0fc1683489e3bdf1bfee2180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Player2Bed_PL
+    second: {fileID: 2100000, guid: 0477ed00eb4d87646b97b6d071a43fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fliper1
+    second: {fileID: 2100000, guid: 39215e432f9a0e3429ce37f3014086c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: c73107d2f5991104a85ae6e370f68bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ingredients1
+    second: {fileID: 2100000, guid: 3a16243cc09d15b47b9fce975f00ee9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stones
+    second: {fileID: 2100000, guid: 91b8749d30a7b6040ade4b491e0863dc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

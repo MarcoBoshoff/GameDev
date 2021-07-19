@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 342ad9917be411e4d88e773342c822c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Outfits_01:belt
+    100004: Outfits_01:hip_root_JNT
+    100006: Outfits_01:JNTS
+    100008: Outfits_01:L_clav_JNT
+    100010: Outfits_01:L_hip_JNT
+    100012: Outfits_01:L_sholder_JNT
+    100014: Outfits_01:master_CTRL
+    100016: Outfits_01:outfit_alchemist
+    100018: Outfits_01:polySurface6
+    100020: Outfits_01:R_clav_JNT
+    100022: Outfits_01:R_hip_JNT
+    100024: Outfits_01:R_sholder_JNT
+    100026: Outfits_01:root_JNT
+    100028: Outfits_01:spine_01_JNT
+    100030: Outfits_01:spine_02_JNT
+    100032: Outfits_01:spine_03_JNT
+    100034: Outfits_01:spine_04_JNT
+    100036: Outfits_01:spine_05_JNT
+    100038: Outfits_01:transform1
+    400000: //RootNode
+    400002: Outfits_01:belt
+    400004: Outfits_01:hip_root_JNT
+    400006: Outfits_01:JNTS
+    400008: Outfits_01:L_clav_JNT
+    400010: Outfits_01:L_hip_JNT
+    400012: Outfits_01:L_sholder_JNT
+    400014: Outfits_01:master_CTRL
+    400016: Outfits_01:outfit_alchemist
+    400018: Outfits_01:polySurface6
+    400020: Outfits_01:R_clav_JNT
+    400022: Outfits_01:R_hip_JNT
+    400024: Outfits_01:R_sholder_JNT
+    400026: Outfits_01:root_JNT
+    400028: Outfits_01:spine_01_JNT
+    400030: Outfits_01:spine_02_JNT
+    400032: Outfits_01:spine_03_JNT
+    400034: Outfits_01:spine_04_JNT
+    400036: Outfits_01:spine_05_JNT
+    400038: Outfits_01:transform1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

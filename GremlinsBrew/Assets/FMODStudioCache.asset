@@ -1,0 +1,1341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45d6ba9b03b7b4d97ab8f1fb2a7c8d, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114077665401738304}
+  - {fileID: 114422657595351634}
+  EditorEvents:
+  - {fileID: 114689885123644992}
+  - {fileID: 114488151402986116}
+  - {fileID: 114969793755466236}
+  - {fileID: 114439853518542738}
+  - {fileID: 114082556919301780}
+  - {fileID: 114765093067222692}
+  - {fileID: 114050714108248216}
+  - {fileID: 114878651915031894}
+  - {fileID: 114811265663675034}
+  - {fileID: 114182433069506780}
+  - {fileID: 114893452532528128}
+  - {fileID: 114357002071011052}
+  - {fileID: 114694501974200572}
+  - {fileID: 114450932027897300}
+  - {fileID: 114956146909285242}
+  - {fileID: 114948428090090032}
+  - {fileID: 114430363548008894}
+  - {fileID: 114874384725477282}
+  - {fileID: 114748803169536730}
+  - {fileID: 114716380033326720}
+  - {fileID: 114104240996038510}
+  - {fileID: 114196629521887528}
+  - {fileID: 114112899946572776}
+  - {fileID: 114194479601374620}
+  - {fileID: 114130447841508106}
+  - {fileID: 114251436504953740}
+  - {fileID: 114050736635784494}
+  - {fileID: 114487210830771460}
+  - {fileID: 114846499750794668}
+  - {fileID: 114478989318736714}
+  - {fileID: 114930899612469810}
+  - {fileID: 114201183676546054}
+  - {fileID: 114605770385615678}
+  - {fileID: 114211537008210828}
+  - {fileID: 114746541470137292}
+  - {fileID: 114271260528208010}
+  - {fileID: 114126444656577794}
+  - {fileID: 114967287114636536}
+  - {fileID: 114663450903399530}
+  - {fileID: 114491948199976610}
+  - {fileID: 114690876068643578}
+  - {fileID: 114022998297101320}
+  - {fileID: 114049995121932862}
+  - {fileID: 114048845918580602}
+  - {fileID: 114712691033133878}
+  - {fileID: 114288806309229000}
+  - {fileID: 114547867726966044}
+  - {fileID: 114368233296555064}
+  MasterBanks:
+  - {fileID: 114422657595351634}
+  StringsBanks:
+  - {fileID: 114077665401738304}
+  stringsBankWriteTime: 637088141242483999
+  cacheVersion: 3
+--- !u!114 &114022998297101320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Stings/sting_Fail
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Stings/sting_Fail
+  guid: e46420ef1ed3254388de433452905b55
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 906
+--- !u!114 &114048845918580602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Repair
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Repair
+  guid: ed251b0a19f5894da62b6c11576b6e97
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1040
+--- !u!114 &114049995121932862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/UI/UI_Cancel
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/UI/UI_Cancel
+  guid: e568c90deb59d34ea7e6a4f1bcc5e255
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 500
+--- !u!114 &114050714108248216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Cauldron/Cauldron_Clean
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Cauldron/Cauldron_Clean
+  guid: 18159332d7d03343897dd757f1154b4c
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 310
+--- !u!114 &114050736635784494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Bedflip
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Bedflip
+  guid: 9bd928ce3b32d84292effb259dc2907f
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 810
+--- !u!114 &114052044548271810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_MenuLoop/MasterVol
+  m_EditorClassIdentifier: 
+  Name: MasterVol
+  Min: 0
+  Max: 1
+  Default: 1
+  Exists: 1
+--- !u!114 &114077665401738304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 592e9cf3e80371e41a50c952758585e1, type: 3}
+  m_Name: bank:/Master Bank.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets\FMOD\Builds_FMOD\Desktop\Master Bank.strings.bank
+  lastModified: 637088141242483999
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3340
+  Exists: 1
+--- !u!114 &114082556919301780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Patience
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Patience
+  guid: 0d68a2cd42a8c64982c211deb4f2e8fb
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6000
+--- !u!114 &114104240996038510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Stings/sting_Success
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Stings/sting_Success
+  guid: 83b10332a4532f49ae9c2184a4194293
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 923
+--- !u!114 &114112899946572776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Hug Station/Hug_Start
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Hug Station/Hug_Start
+  guid: 885ee48719975f4d976be8e8087a389b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1787
+--- !u!114 &114126444656577794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator Station/Catch Electricity
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator Station/Catch Electricity
+  guid: c85816450aa70e46a2d432859f560377
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 805
+--- !u!114 &114130447841508106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Drop_Item
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Drop_Item
+  guid: 8ca26bf17042024c8f0fa335f5996fc4
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 155
+--- !u!114 &114182433069506780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Player/Footsteps_1
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Player/Footsteps_1
+  guid: 24cd71d3f8cbb1468b8de6094968216b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 812
+--- !u!114 &114184127233425608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/Intensity
+  m_EditorClassIdentifier: 
+  Name: Intensity
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114194479601374620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Night Ambience
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Night Ambience
+  guid: 8c06ab329ef781479d00cf4202b35c0b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 47504
+--- !u!114 &114196629521887528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/UI/UI_Start_Game
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/UI/UI_Start_Game
+  guid: 879af42e6767e74fa12f828893b0782b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2500
+--- !u!114 &114201183676546054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Stings/sfx_PotionHasRunOut
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Stings/sfx_PotionHasRunOut
+  guid: b6dd0c24f776ab44bc17895e37d22559
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1846
+--- !u!114 &114211537008210828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Cauldron/Cauldron_Stiring
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Cauldron/Cauldron_Stiring
+  guid: c46c8ebd54d8304ca921e370915ec052
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4400
+--- !u!114 &114251436504953740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Player/Pickup_Ingredient
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Player/Pickup_Ingredient
+  guid: 92eca2bfe7c8ed48acd18d200fcbbe9d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 265
+--- !u!114 &114268176982786038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/Player 2
+  m_EditorClassIdentifier: 
+  Name: Player 2
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114271260528208010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Cauldron/Place_Object_Water
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Cauldron/Place_Object_Water
+  guid: c74d6a00859fca41828c5c8b918bf67b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 219
+--- !u!114 &114288806309229000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Glass_Shatter
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Glass_Shatter
+  guid: f65f3e73fa96e645abbe9ab43fe6a1c3
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 673
+--- !u!114 &114305790931083454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/DayNightCycle
+  m_EditorClassIdentifier: 
+  Name: DayNightCycle
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114327269977725470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/Pause
+  m_EditorClassIdentifier: 
+  Name: Pause
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114357002071011052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Damage
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Damage
+  guid: 345f0241a25a23418d455fc5a494e0e1
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1981
+--- !u!114 &114368233296555064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Grinder/Grinding
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Grinder/Grinding
+  guid: ffe17138858db549b1b44d579f85a3b3
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6300
+--- !u!114 &114402355646439822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/MasterVol
+  m_EditorClassIdentifier: 
+  Name: MasterVol
+  Min: 0
+  Max: 1
+  Default: 1
+  Exists: 1
+--- !u!114 &114422657595351634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 592e9cf3e80371e41a50c952758585e1, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Users\101606739\Desktop\Game_REPO\2019GP-Nebula\GremlinsBrew\Assets\FMOD\Builds_FMOD\Desktop\Master
+    Bank.bank
+  lastModified: 637088141242464014
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 6404704
+  Exists: 1
+--- !u!114 &114430363548008894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/UI/UI_Confirm_Selection
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/UI/UI_Confirm_Selection
+  guid: 4ee657fe3553344996595671ef167e84
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1187
+--- !u!114 &114439853518542738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Stings/sfx_EndLevelSuccess
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Stings/sfx_EndLevelSuccess
+  guid: 0b1db2d2247910458a1fe7359fe264f7
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3692
+--- !u!114 &114450932027897300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Grinder/Burning
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Grinder/Burning
+  guid: 387230c903a6014481a060dbd0606229
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5500
+--- !u!114 &114478989318736714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Glass_Dropped
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Glass_Dropped
+  guid: b2af422fde34d14483d645881517602b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 555
+--- !u!114 &114487210830771460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Player/Throw
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Player/Throw
+  guid: 9cb33c578d6bdc409a3006ad004522d4
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 267
+--- !u!114 &114488151402986116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Stings/sfx_EndLevelFail
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Stings/sfx_EndLevelFail
+  guid: 03ebc9e8c5b4da49b5bd8d764960df97
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2769
+--- !u!114 &114491948199976610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator Station/Generator Fail
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator Station/Generator Fail
+  guid: db8e127302f5514d87042be27549510c
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &114547867726966044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Interactor_Land
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Interactor_Land
+  guid: fe1e6f92f5114b4f93158e4fffb82f6d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &114605770385615678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator Station/Generator Start
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator Station/Generator Start
+  guid: bb6488e8e4f0b74489de57987e39b4a9
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3140
+--- !u!114 &114633091860166730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a27d9482bbba74c8fe001a5c08bbce, type: 3}
+  m_Name: parameter:/music_GameLoop/Player 1
+  m_EditorClassIdentifier: 
+  Name: Player 1
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
+--- !u!114 &114663450903399530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Coin Impact
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Coin Impact
+  guid: d7688f34c03f79478fea6687270ab0f6
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 703
+--- !u!114 &114689885123644992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Electric_Noise
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Electric_Noise
+  guid: 01a87d91cd8fea4d9c0228c890bf3e17
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3875
+--- !u!114 &114690876068643578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator_Fail1
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator_Fail1
+  guid: dc333e1f3ef12c46bb50718737e58e9d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1506
+--- !u!114 &114694501974200572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Drop_Bottle
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Drop_Bottle
+  guid: 34ae77a939a40f4cafe153501df3349d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 473
+--- !u!114 &114712691033133878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Ingredient_Respawn
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Ingredient_Respawn
+  guid: efc03f87d8291840ac464accf7e2f31c
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 648
+--- !u!114 &114716380033326720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Patience Click 2
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Patience Click 2
+  guid: 7ee983fb290a124c959262cbb200c75b
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 750
+--- !u!114 &114746541470137292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Bottles Clinking
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Bottles Clinking
+  guid: c6ea13a58ba13d4fbf2389c52b632b9d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 900
+--- !u!114 &114748803169536730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator_Fail2
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator_Fail2
+  guid: 7e95a196aa532847b46d9610f6b4f543
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1054
+--- !u!114 &114765093067222692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Filling_Bottle
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Filling_Bottle
+  guid: 1736be91f1767f40ba282c49dd39a182
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 212
+--- !u!114 &114811265663675034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Coin Spawn
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Coin Spawn
+  guid: 222777831b4a2b49a44f7c4db1845d9d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 820
+--- !u!114 &114846499750794668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Portal/Portal_DropBottle
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Portal/Portal_DropBottle
+  guid: a466deae33516d41bcb859c870bab47a
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3169
+--- !u!114 &114874384725477282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/UI/UI_Change_Selection
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/UI/UI_Change_Selection
+  guid: 66349351408b8948a356975e6807d019
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 209
+--- !u!114 &114878651915031894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Glass_Clinking
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Glass_Clinking
+  guid: 1ba91a681326f9448d7b01544d03772e
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5696
+--- !u!114 &114893452532528128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Environmental/Patience Click 1
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Environmental/Patience Click 1
+  guid: 2e1ef4c10fd6a740925586148046b32d
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 875
+--- !u!114 &114930899612469810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/music/music_MenuLoop
+  m_EditorClassIdentifier: 
+  Path: event:/music/music_MenuLoop
+  guid: b5b6b2b1f022394f91a781cf1f7414d4
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 114052044548271810}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 35555
+--- !u!114 &114948428090090032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/music/music_GameLoop
+  m_EditorClassIdentifier: 
+  Path: event:/music/music_GameLoop
+  guid: 4ba8141838183846bf4479cee4dd41c2
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 114184127233425608}
+  - {fileID: 114402355646439822}
+  - {fileID: 114633091860166730}
+  - {fileID: 114305790931083454}
+  - {fileID: 114327269977725470}
+  - {fileID: 114268176982786038}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64000
+--- !u!114 &114956146909285242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Enchantment Station/Magic
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Enchantment Station/Magic
+  guid: 445088c294164440a8ec405238653e6f
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3468
+--- !u!114 &114967287114636536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/UI/UI_Confirm_Costume
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/UI/UI_Confirm_Costume
+  guid: d5f2917b279dfc42b35a1bb382b4e281
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 166
+--- !u!114 &114969793755466236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c2c1c39266cc540be000184cdf1a4c, type: 3}
+  m_Name: event:/sfx/Interactors/Generator Station/Generator Zap
+  m_EditorClassIdentifier: 
+  Path: event:/sfx/Interactors/Generator Station/Generator Zap
+  guid: 043357828cb2d845942ce6056be66ffa
+  Banks:
+  - {fileID: 114422657595351634}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 218
